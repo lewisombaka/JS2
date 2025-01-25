@@ -14,18 +14,22 @@
 
 // Number
 
-const myNumber = 42;
-const myFloat = 42.0;
-const myString = "42";
+// const myNumber = 42;
+// const myFloat = 42.0;
+// const myString = "42";
 
-console.log(myNumber === myFloat);
-console.log(myNumber === myString);
+// console.log(myNumber === myFloat);
+// console.log(myNumber === myString);
 
-const reverbedString = Number(myString);
+// const reverbedString = Number(myString);
 
-console.log(typeof(reverbedString));
-console.log(Number.isInteger(reverbedString));
-console.log(Number.parseFloat(myFloat));
-console.log(myFloat.toFixed(2));
+// console.log(typeof(reverbedString));
+// console.log(Number.isInteger(reverbedString));
+// console.log(Number.parseFloat(myFloat));
+// console.log(myFloat.toFixed(2));
 //pasre int
 // to string
+
+//Math Methods
+
+console.log(Math.PI)
